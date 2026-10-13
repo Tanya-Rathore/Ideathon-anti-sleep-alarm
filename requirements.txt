@@ -1,0 +1,3 @@
+mediapipe>=0.10.21,<0.11
+opencv-contrib-python>=4.11,<5
+pygame>=2.6.1,<3
