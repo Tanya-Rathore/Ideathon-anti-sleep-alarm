@@ -1,4 +1,4 @@
-"""Local webcam eye-closure alarm using MediaPipe Tasks + OpenCV."""
+
 import argparse
 import io
 import math
